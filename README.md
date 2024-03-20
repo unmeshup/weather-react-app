@@ -18,4 +18,4 @@ Weather App is a React-based weather application that leverages the OpenWeather 
 - OpenWeather API
 - CSS
 
-Get started with WeatherNow and bring weather information to your fingertips!
+Get started with Weather React App and bring weather information to your fingertips!
